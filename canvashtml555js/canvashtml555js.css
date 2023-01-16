@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.mainheading {
+    text-align: center;
+}
+
+.childofsection2 {
+    border: 23px;
+    padding: 13px;
+    margin: 14px;
+    border-radius: 12px;
+    border-width: 4px;
+    border-color: orange;
+    border-style: solid;
+
+
+}
+
+.circle1 {
+    background-color: yellow;
+    height: 75px;
+    width: 75px;
+    border-radius: 38px;
+    margin: 20px;
+
+}
+
+.circle2 {
+    background-color: blue;
+    height: 75px;
+    width: 75px;
+    border-radius: 38px;
+    margin: 20px;
+
+}
+
+.circle3 {
+    background-color: green;
+    height: 75px;
+    width: 75px;
+    border-radius: 38px;
+    margin: 20px;
+
+}
+
+.circle4 {
+    background-color: red;
+    height: 75px;
+    width: 75px;
+    border-radius: 38px;
+    margin: 20px;
+
+}
+
+
+
+.awes {
+    height: 120px;
+    width: 120px;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.button {
+    background: none;
+    border: none;
+}
+
+.resetbutton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 40px;
+
+
+}
